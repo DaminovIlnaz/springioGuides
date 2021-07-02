@@ -7,6 +7,7 @@ import ru.itis.restapp.model.Message;
 
 import java.util.concurrent.atomic.AtomicLong;
 
+
 @RestController
 public class MessageController {
 
